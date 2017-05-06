@@ -1,7 +1,7 @@
 ## 5.2.0 (June 1, 2017)
 ---
 ### Features
-
+- Adds squawk/sq command [#372](https://github.com/openscope/openscope/issues/372)
 
 
 
